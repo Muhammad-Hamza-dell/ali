@@ -4,3 +4,4 @@ p{
 button{
     color:black;
 }
+h1{color:white;}
